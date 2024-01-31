@@ -1,0 +1,52 @@
+h1{
+    color: #13910a;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
+
+table{
+    border-collapse: collapse;
+    border-style: solid;
+    border-width: 4px;
+    border-color: #293027;
+    width: 80%
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    background-image: url('images/background4.jpg');
+    background-position: center;
+}
+
+th{
+    padding: 40px;
+    padding-bottom: 15px;
+    text-align: center;
+    font-size: larger;
+    background-image: url('images/filmstrip2.jpg');
+    color: #48d913;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+tr:hover{
+    color: black;
+    background-color: #87a081;
+    font-weight: bold;
+}
+
+td{
+    padding: 5px;
+    text-align: center; 
+    font-size: large;
+    font-family: lucida consolse, monospace;
+}
+
+
+
+
